@@ -1,0 +1,33 @@
+.blog_tag {
+  padding: 0;
+  align-items: center;
+  display: flex;
+  flex-direction: row;
+  flex-wrap: wrap;
+}
+
+.blog_tag li{
+  list-style: none;
+  display: list-item;
+  text-align: -webkit-match-parent;  
+  justify-content: flex-start;
+  margin: .8rem 0;
+}
+
+
+.blog_tag li p {
+  background-color: #343434;
+  border-radius: 7rem;
+  font-size: .64rem;
+  justify-content: center;
+  margin: 0 .5rem 0.5rem 0;
+  padding: 0.35rem 0.6rem;
+  text-transform: capitalize;
+
+}
+.tag{
+  align-items: center;
+  display: flex;
+  flex-direction: row;
+  flex-wrap: wrap;
+}

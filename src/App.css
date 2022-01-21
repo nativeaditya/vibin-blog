@@ -1,0 +1,32 @@
+@import url("https://fonts.googleapis.com/css2?family=Poppins:ital,wght@0,100;0,200;0,300;0,400;0,500;0,600;0,700;0,800;0,900;1,100;1,200;1,300;1,400;1,500;1,600;1,700;1,800;1,900&display=swap");
+body {
+  background: #1a1a1a;
+  color: #fff;
+  -webkit-font-smoothing: antialiased;
+  -moz-osx-font-smoothing: grayscale;
+  font-feature-settings: "liga" 0;
+  font-family: poppins;
+  font-size: 1rem;
+  font-variant-ligatures: no-common-ligatures;
+  font-weight: 400;
+  line-height: 1.6;
+  margin: 0;
+  overflow-x: hidden;
+  padding: 0;
+  position: relative;
+}
+body h1, body h2, body h3, body h4, body h5, body h6, body p {
+  margin: 0;
+}
+body,
+body * {
+  box-sizing: border-box;
+}
+button,
+input,
+optgroup,
+select,
+textarea {
+  line-height: 1.15;
+  margin: 0;
+}

@@ -1,0 +1,11 @@
+main{
+  display: block;
+}
+section{
+  display: block;
+}
+.blogPage {
+  min-height: 100vh;
+  padding: 5rem 6vw;
+}
+
